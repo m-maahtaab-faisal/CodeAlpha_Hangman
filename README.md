@@ -21,4 +21,4 @@ Designed with a moody, noir-inspired aesthetic, the game utilizes terminal block
 
 1. Clone this repository to your local machine:
 ```bash
-   git clone [https://github.com/yourusername/CodeAlpha_Hangman.git](https://github.com/yourusername/CodeAlpha_Hangman.git)
+   git clone [https://github.com/yourusername/CodeAlpha_Hangman.git](https://github.com/m-maahtaab-faisal/CodeAlpha_Hangman.git)
